@@ -5,7 +5,10 @@ A warning is given via toast notification.
 
 ## Usage
 Copy the script to the gaming machine in question.
+
 Set up the scheduled task to run the PowerShell script in the background, and to start at login of the specified user.
+
+The DinnertimeGamingBlocker.xml can be used to import a scheduled task.
 
 ## Customisation
 
